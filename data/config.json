@@ -1,0 +1,11 @@
+{
+    "name":"习讯云配置文件 | Key可以从 习讯云网页源码获得 | 也可以联系 qcgwl520 (打赏)",
+    "config":[
+        {
+            "version": "4.9.7",
+            "from":"app",
+            "platform": "android",
+            "key":""
+        }
+    ]
+}
